@@ -81,6 +81,9 @@ public class Main {
         str.tasks();
     }
 
+public void numbers() {
+
+}
     public static void calculateNumbers(int a, int b, int c) {
         System.out.println(a+b+c);
     }
