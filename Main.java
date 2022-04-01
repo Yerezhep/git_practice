@@ -40,7 +40,7 @@ public class Main {
         //8task
         int[] arr2 = {1,5,8,9,11};
 //        reverseArray(arr2);
-
+// text
 
         //date
 //        Calendar now = Calendar.getInstance();
@@ -109,7 +109,7 @@ public class Main {
             }
         }
     }
-
+//new text 123
     public static void temperature(double f) {
         double c = ((f-32)*5)/9;
         System.out.println(c);
@@ -122,6 +122,7 @@ public class Main {
             resultArrays[j] = arr[i];
             j++;
             System.out.println(resultArrays[i]);
+		//print
         }
     }
 
